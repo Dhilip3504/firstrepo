@@ -1,1 +1,1 @@
-this is used to check git initial changes
+This is used to check git initial changes
